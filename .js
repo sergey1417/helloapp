@@ -5,3 +5,6 @@ function greetWhite() {
 function greetBlack() {
     console.log('hello black');
 }
+
+greetWhite();
+
